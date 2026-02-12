@@ -1,7 +1,5 @@
 ## 📸 Website Preview & Features
 
----
-
 ### 🏠 Home Page UI
 
 ![Home Page](screenshots/Homepage.png)
@@ -23,5 +21,3 @@
 ### 📄 AI Generated PDF Report
 
 ![PDF Report](screenshots/pdfreport1.png)
-
----

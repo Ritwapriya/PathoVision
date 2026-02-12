@@ -8,12 +8,6 @@
 
 ---
 
-### 📤 Image Upload & Analysis Interface
-
-![Upload & Analysis](screenshots/feedback.png)
-
----
-
 ### 🔍 Detection Output
 
 ![Detection Output](screenshots/Detection.png)
@@ -26,8 +20,8 @@
 
 ---
 
-### 📑 Detailed Report View
+### 📑 FeedBack
 
-![Detailed Report](screenshots/pdf_report.png)
+![FeedBack](screenshots/feedback.png)
 
 ---
